@@ -40,7 +40,7 @@ The dataset consists of various financial indicators such as:
 
 ---
 
-## Visualizations
+## Appendix
 ![image](https://github.com/slashhsu/R-practise-MLR/assets/137000188/00c3bbb1-5dbf-4a8b-978d-d091a0cc2c26)
 ![image](https://github.com/slashhsu/R-practise-MLR/assets/137000188/688d1c12-f180-4d8c-bfdc-095bc3e98803)
 ![image](https://github.com/slashhsu/R-practise-MLR/assets/137000188/9b82be33-79a0-4877-931f-22ffe4af7b99)
